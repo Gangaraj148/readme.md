@@ -161,7 +161,7 @@ I use GitHub to experiment, build projects, learn new technologies, and turn ide
 ## Connect With Me
 
 **LinkedIn:**
-linkedin.com/in/gangaraj-gana-0964822a8
+https://linkedin.com/in/gangaraj-gana-0964822a8
 
 **GitHub:**
 https://github.com/Gangaraj148
