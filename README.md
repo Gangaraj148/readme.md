@@ -1,6 +1,6 @@
 # Hi, I'm Gangaraj N
 
-### AI/ML Developer | Full-Stack Developer | BE ISE Graduate
+### Software Developer | Full-Stack Developer | BE ISE Graduate
 
 I build **AI-powered applications, intelligent data systems, and full-stack products** that solve practical problems.
 
@@ -10,7 +10,7 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 ## About Me
 
-* B.Tech Computer Science graduate, 2026
+* BE Information Science graduate, 2026
 * Interested in **AI, Machine Learning, Generative AI, and Data Analytics**
 * Experienced in building **full-stack web applications and AI-driven systems**
 * Exploring **Agentic AI, LLM applications, RAG, and multi-agent systems**
@@ -154,17 +154,17 @@ Built full-stack enterprise applications for employee management, task assignmen
 
 I use GitHub to experiment, build projects, learn new technologies, and turn ideas into working software.
 
-**35+ projects and repositories built across AI, ML, full-stack development, and data analytics.**
+**2 projects and repositories built across AI, ML, full-stack development, and data analytics.**
 
 ---
 
 ## Connect With Me
 
 **LinkedIn:**
-https://www.linkedin.com/in/karthik-p-668928255
+https://linkedin.com/in/gangaraj-gana-0964822a8
 
 **GitHub:**
-https://github.com/karthik1841
+https://github.com/Gangaraj148
 
 ---
 
