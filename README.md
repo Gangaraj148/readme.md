@@ -1,6 +1,6 @@
 # Hi, I'm Gangaraj N
 
-### AI/ML Developer | Full-Stack Developer | B.Tech CSE Graduate
+### AI/ML Developer | Full-Stack Developer | BE ISE Graduate
 
 I build **AI-powered applications, intelligent data systems, and full-stack products** that solve practical problems.
 
